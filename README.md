@@ -2,6 +2,7 @@
 📬 Telegram Email Notifier - Automatically sends Gmail emails to Telegram with rich formatting and inline buttons. Personal project with MIT license.
 
 ## 📁 Repository Structure
+```
 MailBotX/                       <- Root of the repository
 ├─ src/                          <- Main source code of the bot
 │   ├─ main.py                   <- Starts the bot and the email checking loop
@@ -11,3 +12,4 @@ MailBotX/                       <- Root of the repository
 ├─ .gitignore                    <- Ignores sensitive files and cache
 ├─ LICENSE                       <- MIT License
 ├─ README.md                      <- Description, installation, and features of the project
+```
