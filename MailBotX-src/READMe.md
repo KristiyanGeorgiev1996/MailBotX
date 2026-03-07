@@ -1,4 +1,4 @@
-# 📬 MailBotX – TV-Robot
+# 📬 MailBotX
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
 
