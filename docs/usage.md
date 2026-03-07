@@ -28,4 +28,7 @@ The bot checks Gmail every 10 minutes and sends **HTML formatted messages** to T
 
 1. Create a `gh-pages` branch (or use `main` / `docs/`)  
 2. Go to **Settings → Pages → Source** and select the branch and folder (`/docs` or root)  
-3. After a few minutes, GitHub will generate a URL, for example:  
+3. After a few minutes, GitHub will generate a URL, for example:
+```
+https://username.github.io/MailBotX/
+```
