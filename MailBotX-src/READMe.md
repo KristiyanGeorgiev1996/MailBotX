@@ -1,6 +1,8 @@
 # 📬 MailBotX
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
+![Python](https://img.shields.io/badge/Python-3.11-blue) 
+![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **Author:** [KristiyanGeorgiev1996 - Chris]  
 **License:** MIT License (MIT)  
