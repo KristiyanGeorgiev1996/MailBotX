@@ -1,7 +1,7 @@
 # MailBotX
 📬 Telegram Email Notifier - Automatically sends Gmail emails to Telegram with rich formatting and inline buttons. Personal project with MIT license.
 
-![Bot Screenshot](images/notification_example.png)
+![Bot Screenshot](Images/MailBotX-Image.png)
 
 # MailBotX – Telegram Email Notifier
 
