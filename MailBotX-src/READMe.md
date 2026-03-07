@@ -1,8 +1,8 @@
-# 📬 Telegram Email Notifier – TV-Robot
+# 📬 MailBotX – TV-Robot
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
 
-**Author:** [Your Name]  
+**Author:** [KristiyanGeorgiev1996 - Chris]  
 **License:** MIT License (MIT)  
 
 ---
@@ -154,7 +154,7 @@ The bot runs in parallel:
 
 ## 📜 License & Authorship
 
-This project is personal, developed by [Your Name].  
+This project is personal, developed by [KristiyanGeorgiev1996].  
 
 Licensed under MIT – can be used freely, but always credit the author.  
 
