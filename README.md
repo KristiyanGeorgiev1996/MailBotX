@@ -3,6 +3,10 @@
 
 ![Bot Screenshot](Images/MailBotX-Image.png)
 
+![Python](https://img.shields.io/badge/Python-3.11-blue) 
+![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # MailBotX – Telegram Email Notifier
 
 ## 📁 Repository Structure
