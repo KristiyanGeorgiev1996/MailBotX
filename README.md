@@ -3,6 +3,8 @@
 
 ![Bot Screenshot](Images/MailBotX-Image.png)
 
+[MailBotX Docs / GitHub Pages](https://kristiyangeorgiev1996.github.io/MailBotX/)
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
