@@ -63,7 +63,7 @@ Check the [Usage guide](docs/usage.md) for commands and instructions to run the 
 
 ## 🔗 Documentation / GitHub Pages
 
-All Markdown files with screenshots and GIFs are available as a landing page:
+All Markdown files with GIF are available as a landing page:
 
 [MailBotX Docs / GitHub Pages](https://KristiyanGeorgiev1996.github.io/MailBotX/)
 
