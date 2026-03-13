@@ -6,7 +6,8 @@ This file contains a full suite of automated tests for a Telegram bot integrated
 
 ## 🗂 Folder Structure
 ```
-/telegram-gmail-bot-tests
+/MailBotX-tests
+
 │
 ├── tests/
 │   ├── test_api_contract.py
