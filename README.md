@@ -32,14 +32,28 @@ It’s a personal project, designed for learning and automation purposes.
 
 ```text
 MailBotX/
-├─ main.py                  <- Starts the Telegram bot and Gmail checking loop
-├─ telegram_bot.py          <- Handles Telegram commands and messaging
-├─ gmail_service.py         <- Connects to Gmail, checks emails, sends notifications
-├─ config.py                <- Loads configuration and tokens from .env
-├─ .env                     <- Stores BOT_TOKEN, CHAT_ID, EMAIL_ADDRESS, EMAIL_PASSWORD
-├─ bot_status.json          <- Stores bot status
-├─ stats.json               <- Stores email statistics
-├─ last_email.json          <- Stores last email
+│   ├─ main.py                  <- Starts the Telegram bot and Gmail checking loop
+│   ├─ telegram_bot.py          <- Handles Telegram commands and messaging
+│   ├─ gmail_service.py         <- Connects to Gmail, checks emails, sends notifications
+│   ├─ config.py                <- Loads configuration and tokens from .env
+│   ├─ .env                     <- Stores BOT_TOKEN, CHAT_ID, EMAIL_ADDRESS, EMAIL_PASSWORD
+│   ├─ bot_status.json          <- Stores bot status
+│   ├─ stats.json               <- Stores email statistics
+│   ├─ last_email.json          <- Stores last email
+MailBotX-tests/
+│   ├── test_api_contract.py    <- Contract test
+│   ├── test_e2e.py             <- End to End tests
+│   ├── test_negative.py        <- Negative tests
+│   ├── test_regression.py      <- Regression tests
+│   ├── test_unit.py            <- Unit tests
+│   └── screenshots/
+│       ├── Screenshot-1-Unit-Tests.png
+│       ├── Screenshot-2-Test-API-Contract.png
+│       ├── Screenshot-3-Test-Negative.png
+│       ├── Screenshot-4-Test-Regression.png
+│       └── Screenshot-5-Test-E2E.png
+│
+└── README.md
 ├─ docs/                    <- Documentation folder
 │   ├─ index.md             <- Landing page
 │   ├─ installation.md      <- Installation guide
