@@ -15,6 +15,6 @@ MailBotX is a **Telegram bot** that automatically sends **new Gmail emails** as 
 - Inline button linking to Gmail
 - Commands: `/start`, `/stop`, `/status`, `/last`, `/stats`, `/test`, `/menu`
 
-![Bot Demo](.screenshots/Screenshot-3.png)
+![Bot Demo](screenshots/Screenshot-3.png)
 
 ---
