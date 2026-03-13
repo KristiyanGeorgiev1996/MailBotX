@@ -40,7 +40,7 @@ Validates that the Telegram and Gmail integration follows the expected API contr
 - **Exception handling:** simulates `requests.post` failure and ensures the function handles exceptions gracefully.
 
 **Screenshot Tag:**  
-`![API Contract Tests](screenshots/test_api_contract.png)`
+`![API Contract Tests](screenshots/Screenshot-2-Test-API-Contract.png)`
 
 ---
 
@@ -64,7 +64,7 @@ End-to-end tests of the bot, validating the full flow from commands to email pro
   - API exceptions are handled safely
 
 **Screenshot Tag:**  
-`![E2E Tests](screenshots/test_e2e.png)`
+`![E2E Tests](screenshots/Screenshot-5-Test-E2E.png)`
 
 ---
 
@@ -80,7 +80,7 @@ Negative and edge-case tests to ensure the bot handles unexpected scenarios grac
 - **Telegram API exceptions:** ensures `send_telegram_message` handles exceptions without crashing.
 
 **Screenshot Tag:**  
-`![Negative Tests](screenshots/test_negative.png)`
+`![Negative Tests](screenshots/Screenshot-3-Test-Negative.png)`
 
 ---
 
@@ -100,7 +100,7 @@ Regression tests for critical functions and helper methods to ensure that code c
   - `set_status(True/False)`
 
 **Screenshot Tag:**  
-`![Regression Tests](screenshots/test_regression.png)`
+`![Regression Tests](screenshots/Screenshot-4-Test-Regression.png)`
 
 ---
 
@@ -118,6 +118,6 @@ Unit tests for individual functions in the bot and Gmail integration, using dumm
 - **handle_command:** tests all valid commands (`/start`, `/stop`, `/test`, etc.) and unknown commands.
 
 **Screenshot Tag:**  
-`![Unit Tests](screenshots/test_unit.png)`
+`![Unit Tests](screenshots/Screenshot-1-Unit-Tests.png)`
 
 ---
