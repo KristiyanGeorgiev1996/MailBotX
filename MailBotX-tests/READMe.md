@@ -118,6 +118,6 @@ Unit tests for individual functions in the bot and Gmail integration, using dumm
 - **handle_command:** tests all valid commands (`/start`, `/stop`, `/test`, etc.) and unknown commands.
 
 **Screenshot Tag:**  
-![Unit Tests](screenshots/Screenshot-1-Unit-Tests.png)
+![Unit Tests](screenshots/Screenshot-1-Unit-Tests.py.png)
 
 ---
