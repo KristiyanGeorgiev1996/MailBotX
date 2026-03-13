@@ -40,7 +40,7 @@ Validates that the Telegram and Gmail integration follows the expected API contr
 - **Exception handling:** simulates `requests.post` failure and ensures the function handles exceptions gracefully.
 
 **Screenshot Tag:**  
-![API Contract Tests](Screenshot-4-Test-Regression.png)
+![API Contract Tests](screenshots/Screenshot-4-Test-Regression.png)
 
 ---
 
