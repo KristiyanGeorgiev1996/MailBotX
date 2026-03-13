@@ -80,7 +80,7 @@ Negative and edge-case tests to ensure the bot handles unexpected scenarios grac
 - **Telegram API exceptions:** ensures `send_telegram_message` handles exceptions without crashing.
 
 **Screenshot Tag:**  
-`![Negative Tests](screenshots/Screenshot-3-Test-Negative.png)`
+`![Negative Tests](tests/screenshots/Screenshot-3-Test-Negative.png)`
 
 ---
 
