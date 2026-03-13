@@ -31,7 +31,7 @@ It’s a personal project, designed for learning and automation purposes.
 ## 📁 Project Structure
 
 ```text
-MailBotX/
+MailBotX-src/
 │   ├─ main.py                  <- Starts the Telegram bot and Gmail checking loop
 │   ├─ telegram_bot.py          <- Handles Telegram commands and messaging
 │   ├─ gmail_service.py         <- Connects to Gmail, checks emails, sends notifications
