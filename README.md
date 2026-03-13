@@ -52,14 +52,14 @@ MailBotX-tests/
 │       ├── Screenshot-3-Test-Negative.png
 │       ├── Screenshot-4-Test-Regression.png
 │       └── Screenshot-5-Test-E2E.png
-│
-└── README.md
 ├─ docs/                    <- Documentation folder
 │   ├─ index.md             <- Landing page
 │   ├─ installation.md      <- Installation guide
 │   ├─ usage.md             <- How to use the bot
 │   ├─ env.md               <- .env setup guide
 │   ├─ screenshots/         <- Screenshots and GIFs
+│
+└── README.md
 ```
 ---
 
