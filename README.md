@@ -5,13 +5,10 @@
 
 [MailBotX Docs / GitHub Pages](https://kristiyangeorgiev1996.github.io/MailBotX/)
 
-![Build Status](https://github.com/KristiyanGeorgiev1996/MailBotX/actions/workflows/main.yml/badge.svg)
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Stars](https://img.shields.io/github/stars/KristiyanGeorgiev1996/MailBotX)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Stars](https://img.shields.io/github/stars/KristiyanGeorgiev1996/MailBotX)
 
 MailBotX is a **Telegram bot** that automatically sends **new Gmail emails** as notifications directly to your Telegram chat.  
 
